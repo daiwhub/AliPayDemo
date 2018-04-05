@@ -10,7 +10,7 @@ import android.widget.Toast;
  *
  * @author: daiw
  * @time: 2018/4/5  下午3:29
- *         深圳市优讯信息技术有限公司
+ *
  *         ***************************
  */
 

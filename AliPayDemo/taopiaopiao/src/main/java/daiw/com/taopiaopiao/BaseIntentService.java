@@ -13,7 +13,7 @@ import daiw.com.rulemodule.RuleIntentService;
  *
  * @author: daiw
  * @time: 2018/4/2  上午11:40
- *         深圳市优讯信息技术有限公司
+ *
  *         ***************************
  */
 

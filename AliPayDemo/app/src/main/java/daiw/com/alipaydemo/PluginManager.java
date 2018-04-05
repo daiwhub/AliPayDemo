@@ -22,7 +22,7 @@ import dalvik.system.DexClassLoader;
  *
  * @author: daiw
  * @time: 2018/3/29  上午11:39
- *         深圳市优讯信息技术有限公司
+ *
  *         ***************************
  */
 

@@ -12,7 +12,7 @@ import daiw.com.rulemodule.RuleBroadcastReceiver;
  *
  * @author: daiw
  * @time: 2018/4/3  下午8:37
- *         深圳市优讯信息技术有限公司
+ *
  *         ***************************
  */
 

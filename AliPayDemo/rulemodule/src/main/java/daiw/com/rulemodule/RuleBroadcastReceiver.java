@@ -8,7 +8,7 @@ import android.content.Intent;
  *
  * @author: daiw
  * @time: 2018/4/3  下午8:36
- *         深圳市优讯信息技术有限公司
+ *
  *         ***************************
  */
 

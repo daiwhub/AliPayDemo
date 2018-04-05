@@ -15,7 +15,7 @@ import daiw.com.rulemodule.RuleService;
  *
  * @author: daiw
  * @time: 2018/3/30  下午1:15
- *         深圳市优讯信息技术有限公司
+ *
  *         ***************************
  */
 
